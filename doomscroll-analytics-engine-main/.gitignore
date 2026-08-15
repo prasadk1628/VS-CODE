@@ -10,7 +10,6 @@ env/
 path/to/venv/
 
 # SQLite databases
-database/*.db
 database/*.sqlite
 database/*.sqlite3
 
