@@ -791,6 +791,6 @@ Hyderabad, India
 
 [GitHub](https://github.com/prasadk1628)
 
-[LinkedIn](https://linkedin.com/vara-prasad-k)
+[LinkedIn](https://www.linkedin.com/in/vara-prasad-kavali)
 
 ---
